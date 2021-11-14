@@ -1,0 +1,57 @@
+.align{
+    text-align: center;
+}
+#bold{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.capital{
+    text-transform: capitalize;
+}
+header{
+    background-color: black;
+}
+header h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 10px;
+    border-bottom: red 5px solid;
+}
+f{
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ h3{
+background-color:rgb(20, 127, 214);
+color: white;
+overflow: hidden;
+padding: 8px;
+}
+  a{
+    text-decoration: none;
+    color:rgb(20, 127, 214);
+}
+z{
+color:black;
+}
+form{
+    background-color: rgb(221, 219, 213);
+    border-radius: 3px;
+    padding: 10px;
+}
+ sh p{ 
+    padding: 5px;
+    background-color: rgb(184, 181, 175);
+    border-top: rgb(245, 188, 66) 5px solid;   
+}
+label{
+    color: red;
+}
+bi{
+    font-weight: bold;
+    font-size:xx-large;
+}
+hr{
+   size: 1px;
+    color: rgb(224, 222, 222);
+}
